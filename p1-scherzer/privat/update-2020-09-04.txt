@@ -1,0 +1,30 @@
+Herwig Website:
+
+Changes:
+	Footer --> Kontaktdaten (ref. Zettl, Renates Einkehr)	
+	Schriftfarben
+	zw. Gallerie u. Buchen --> Aktivitäten
+	"Do muast ume!" --> "Im Mittelpunkt der Natur"
+	Allg. ohne Rufzeichen
+	Allg. pers. Anrede
+	Allg. kärntner Dialekt
+	"Gallerie" --> "Dos Haus"
+	CMS hau ma weg
+	Kalender brauch ma nix --> ref. Renate's Einkehr
+	Kontakt Text weg
+	Kontekt Footer Text: "I gfrei mi auf eich!"
+
+Adding:
+	Edelweiß Logo
+	Slideshow
+	Bilder von Innen --> Text "Kumm lei eina!"
+	Header --> Menüpunkte für Schnellzugriff (Gallerie, Buchen, etc.)
+	Aktivitäten: (Ref. renates-einkehr.at/aktivitaeten/)
+		--> Hyperlinks (Weißensee, Millstätersee, Badehaus Millstadt
+				Goldeck, ...)
+	Unverbindliche Anfrage (Ref. renates-einkehr.at/anfrage/)
+	
+	
+
+Ref.: renates-einkehr.at
+Ref.: Btstrp- Studio 1st Prototype
